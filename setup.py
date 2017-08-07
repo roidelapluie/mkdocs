@@ -61,7 +61,7 @@ setup(
         'click>=3.3',
         'Jinja2>=2.7.1',
         'livereload>=2.5.1',
-        'Markdown>=2.3.1,<2.5' if PY26 else 'Markdown>=2.3.1',
+        'Markdown>=2.3.1',
         'PyYAML>=3.10',
         'tornado>=4.1',
     ],
